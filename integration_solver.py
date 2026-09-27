@@ -10,7 +10,6 @@ exp=input('enter your expression in terms of x : ')
 
 
 #checking valid entry 
-
 is_valid, message=valid.validate_exp(exp)
 
 if is_valid:
